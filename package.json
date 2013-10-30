@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/maur8ino/karma-jsonjs-preprocessor.git"
+    "url": "git://github.com/maur8ino/karma-json2js-preprocessor.git"
   },
   "keywords": [
     "karma-plugin",
