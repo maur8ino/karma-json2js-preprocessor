@@ -1,4 +1,4 @@
-# karma-html2js-preprocessor [![Build Status](https://travis-ci.org/maur8ino/karma-json2js-preprocessor.png?branch=master)](https://travis-ci.org/maur8ino/karma-json2js-preprocessor)
+# karma-html2js-preprocessor
 
 > Preprocessor for converting JSON files into a function.
 
